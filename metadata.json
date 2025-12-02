@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Burmese Content GenAI",
+  "description": "Generate creative content ideas in Burmese using voice or text input, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
